@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Api + Microservices
 
-![img]()
+![img](https://static.pexels.com/photos/211122/pexels-photo-211122.jpeg)
 
 **Data provável:** /17
 
