@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Elm
 
-![img]()
+![img](https://softwareengineeringdaily.com/wp-content/uploads/2015/11/ElmLogo.png)
 
 **Data provável:** /17
 
