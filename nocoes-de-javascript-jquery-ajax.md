@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Noções de JavaScript, jQuery e Ajax
 
-![img]()
+![img](http://daniellfeijo.com/wp-content/uploads/2015/09/201509080032-825x384.png)
 
 **Data provável:** /17
 
