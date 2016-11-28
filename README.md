@@ -62,7 +62,7 @@ http://line25.com/articles/free-html-templates-high-impact
 
 **Lugar provável:** iMasters
 
-**Instrutor provável:** 
+**Instrutor provável:**  Samuel Sampaio (Samuka)
 
 **Tempo estimado:** 2,5 horas
 
