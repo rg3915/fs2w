@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # IOT
 
-![img]()
+![img](http://ipnews.com.br/wp-content/uploads/2016/02/iot.png)
 
 **Data provável:** /17
 
