@@ -57,7 +57,7 @@ http://line25.com/articles/free-html-templates-high-impact
 
 ![git](https://www.embarcados.com.br/wp-content/uploads/2015/02/Git-Logo-2Color.png)
 
-**Data provável:** 27/01/16
+**Data provável:** 27/01/17
 
 **Lugar provável:** iMasters
 
@@ -88,7 +88,7 @@ Aprenda a versionar o seu código com Git, e facilite o seu trabalho em equipe.
 
 ![python](http://viladosilicio.com.br/wp-content/uploads/2016/08/Post1_pt2.png)
 
-**Data provável:** 10/02/16
+**Data provável:** 10/02/17
 
 **Lugar provável:** Avenue Code
 
@@ -119,7 +119,7 @@ Venha aprender Python, a segunda linguagem mais popular do mundo. Workshop 100% 
 
 ![PostgreSql](https://tellesr.files.wordpress.com/2015/01/postgresql-logo.png)
 
-**Data provável:** 20/02/16
+**Data provável:** 20/02/17
 
 **Lugar provável:** IBM
 
@@ -157,7 +157,7 @@ Conheça PostgreSql, o banco de dados mais poderoso do mundo. Workshop 100% prá
 
 ![flask](http://flask.pocoo.org/static/logo/flask.png)
 
-**Data provável:** 04/03/16
+**Data provável:** 04/03/17
 
 **Lugar provável:** Garoa HC
 
@@ -190,7 +190,7 @@ Nosso objetivo é criar uma aplicação web com o mínimo de esforço.
 
 ![django](http://4.bp.blogspot.com/_REZAsKyyZYE/TUlAN99L9cI/AAAAAAAAAfo/ZdDXTEbNhBk/s1600/django-logo-positive.png)
 
-**Data provável:** 18/03/16
+**Data provável:** 18/03/17
 
 **Lugar provável:** Garoa HC
 
@@ -232,7 +232,7 @@ O Django é uma ferramenta muito poderosa, e com ele podemos criar uma aplicaç�
 
 ![Heroku](https://d3k90kvix375hb.cloudfront.net/assets/heroku-og-cad174838a49b266550809e29026ec9bc18e056dae8f9cf523ea4237379691f9.png)
 
-**Data provável:** 24/03/16
+**Data provável:** 24/03/17
 
 **Lugar provável:** IBM, iMasters ou Avenue Code
 
