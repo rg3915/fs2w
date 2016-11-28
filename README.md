@@ -14,6 +14,7 @@ FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicaçõe
 - [ ] [FS2W GruPy-SP #6 Overdose de Django](#fs2w-grupy-sp-6-overdose-de-django)
 - [ ] [FS2W GruPy-SP #7 Fazendo Deploy do seu projeto no Heroku](#fs2w-grupy-sp-7-fazendo-deploy-do-seu-projeto-no-heroku)
 
+Veja o [calendário](https://rg3915.github.io/fs2w/).
 
 ## FS2W GruPy-SP #1 HTML e CSS básico
 
