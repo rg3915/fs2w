@@ -61,7 +61,7 @@ http://line25.com/articles/free-html-templates-high-impact
 
 **Lugar provável:** iMasters
 
-**Instrutor provável:** 
+**Instrutor provável:**
 
 **Tempo estimado:** 2,5 horas
 
@@ -92,7 +92,7 @@ Aprenda a versionar o seu código com Git, e facilite o seu trabalho em equipe.
 
 **Lugar provável:** Avenue Code
 
-**Instrutor provável:** 
+**Instrutor provável:**
 
 **Tempo estimado:** 5 horas
 
@@ -106,8 +106,9 @@ Workshop de introdução ao Python, uma linguagem interpretada, com tipagem fort
 
 **Objetivo:**
 
+* Ambiente de desenvolvimento: Virtualenv e Pip
+* Interpretador Python
 * Aprender os principais comandos do Python.
-* ...
 
 **Chamada para o evento:**
 
