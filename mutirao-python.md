@@ -10,7 +10,7 @@
 
 **Lugar provável:** Avenue Code
 
-**Instrutor provável:** 
+**Instrutor provável:**
 
 **Tempo estimado:** 5 horas
 
@@ -24,11 +24,10 @@ Workshop de introdução ao Python, uma linguagem interpretada, com tipagem fort
 
 **Objetivo:**
 
+* Ambiente de desenvolvimento: Virtualenv e Pip
+* Interpretador Python
 * Aprender os principais comandos do Python.
-* ...
 
 **Chamada para o evento:**
 
 Venha aprender Python, a segunda linguagem mais popular do mundo. Workshop 100% prático. Traga seu notebook.
-
-
