@@ -6,12 +6,19 @@ O ano mal começou e o GruPy-SP já começa com um mega projeto: Full Stack Web 
 
 FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicações web em Python. O objetivo é que ao final do programa você seja capaz de criar seu próprio projeto web do começo ao fim, e ainda deixar seu site no ar.
 
-- [ ] [FS2W #1 HTML e CSS básico](#fs2w-grupy-sp-1-html-e-css-básico)
-- [ ] [FS2W #2 Introdução a Git](#fs2w-grupy-sp-2-introdução-a-git)
-- [ ] [FS2W #3 Mutirão Python](#fs2w-grupy-sp-3-mutirão-python)
-- [ ] [FS2W #4 Introdução ao PostgreSql](#fs2w-grupy-sp-4-introdução-ao-postgresql)
-- [ ] [FS2W #5 Flask na veia](#fs2w-grupy-sp-5-flask-na-veia)
-- [ ] [FS2W #6 Overdose de Django](#fs2w-grupy-sp-6-overdose-de-django)
-- [ ] [FS2W #7 Fazendo Deploy do seu projeto no Heroku](#fs2w-grupy-sp-7-fazendo-deploy-do-seu-projeto-no-heroku)
+- [ ] [FS2W # HTML e CSS básico](html-e-css-basico.md)
+- [ ] [FS2W # Linux](linux.md)
+- [ ] [FS2W # Introdução a Git](introducao-a-git.md)
+- [ ] [FS2W # Noções de JavaScript, jQuery e Ajax](nocoes-de-javascript-jquery-ajax.md)
+- [ ] [FS2W # Elm](elm.md)
+- [ ] [FS2W # Mutirão Python](mutirao-python.md)
+- [ ] [FS2W # Introdução ao PostgreSql](introducao-ao-postgresql.md)
+- [ ] [FS2W # Web Scraping](web-scraping.md)
+- [ ] [FS2W # Flask na veia](flask-na-veia.md)
+- [ ] [FS2W # Overdose de Django](overdose-de-django.md)
+- [ ] [FS2W # Fazendo Deploy do seu projeto no Heroku](fazendo-deploy-do-seu-projeto-no-heroku.md)
+- [ ] [FS2W # Api + Microservices](api-e-microservices.md)
+- [ ] [FS2W # Testes e Integração Contínua](testes-e-integracao-continua.md)
+- [ ] [FS2W # Python & IOT](iot.md)
 
-
+Vejam a [planilha](https://docs.google.com/spreadsheets/d/1x6G5Pv6FP-C1lYnE7s-5HmcfxekqkReyee-R3kzEBDw/edit?usp=sharing).
