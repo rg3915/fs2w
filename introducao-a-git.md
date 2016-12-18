@@ -2,7 +2,7 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP #2 Introdução a Git
+## FS2W GruPy-SP # Introdução a Git
 
 ![git](img/git.png)
 

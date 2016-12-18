@@ -2,7 +2,7 @@
 
 ![fs2w](img/fs2w.png)
 
-## HTML e CSS básico
+## FS2W GruPy-SP # HTML e CSS básico
 
 ![html_css](img/html_css.jpg)
 
