@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Flask na veia
 
-![flask](http://flask.pocoo.org/static/logo/flask.png)
+![flask](img/flask.png)
 
 **Data provável:** /17
 

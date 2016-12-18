@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Fazendo Deploy do seu projeto no Heroku
 
-![Heroku](https://d3k90kvix375hb.cloudfront.net/assets/heroku-og-cad174838a49b266550809e29026ec9bc18e056dae8f9cf523ea4237379691f9.png)
+![Heroku](img/heroku.png)
 
 **Data provável:** /17
 

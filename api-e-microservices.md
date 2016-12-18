@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Api + Microservices
 
-![img](https://www8.twu.ca/divisions/information-technology/user-support/under-construction.jpg)
+![img](img/microservices.jpg)
 
 **Data provável:** /17
 

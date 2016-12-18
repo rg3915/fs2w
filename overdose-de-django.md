@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Overdose de Django
 
-![django](http://4.bp.blogspot.com/_REZAsKyyZYE/TUlAN99L9cI/AAAAAAAAAfo/ZdDXTEbNhBk/s1600/django-logo-positive.png)
+![django](img/django.png)
 
 **Data provável:** /17
 

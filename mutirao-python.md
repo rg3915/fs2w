@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Mutirão Python
 
-![python](http://viladosilicio.com.br/wp-content/uploads/2016/08/Post1_pt2.png)
+![python](img/python.png)
 
 **Data provável:** /17
 

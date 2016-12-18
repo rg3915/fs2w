@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Introdução ao PostgreSql
 
-![PostgreSql](https://tellesr.files.wordpress.com/2015/01/postgresql-logo.png)
+![PostgreSql](img/postgresql.png)
 
 **Data provável:** /17
 

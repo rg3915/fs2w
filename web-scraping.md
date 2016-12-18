@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Web Scraping
 
-![img](http://altitudelabs.com/blog/content/images/2016/04/web-scraper.png)
+![img](img/web_scraper.png)
 
 **Data provável:** /17
 

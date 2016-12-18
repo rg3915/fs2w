@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP #2 Introdução a Git
 
-![git](https://www.embarcados.com.br/wp-content/uploads/2015/02/Git-Logo-2Color.png)
+![git](img/git.png)
 
 **Data provável:** /17
 

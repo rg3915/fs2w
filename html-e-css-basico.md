@@ -4,7 +4,7 @@
 
 ## HTML e CSS básico
 
-![html_css](http://i.imgur.com/hvmrudL.jpg)
+![html_css](img/html_css.jpg)
 
 **Data:** xx/01/17
 

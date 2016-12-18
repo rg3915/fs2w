@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP # Testes e Integração Contínua
 
-![img](https://s-media-cache-ak0.pinimg.com/564x/a8/b3/19/a8b319c90d57e687afbec98e5ad02cd5.jpg)
+![img](img/integ_cont.jpg)
 
 **Data provável:** /17
 
