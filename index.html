@@ -4,262 +4,127 @@
   <meta charset="UTF-8">
   <title>FS2W</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
-
+  <link rel="stylesheet" href="css/status.css">
   <style>
-    ul {list-style-type: none;}
-    body {font-family: Verdana, sans-serif;}
-
-    /* Month header */
-    .month {
-        padding: 40px 25px;
-        width: 100%;
-        background: #3873a3;
+    a {
+      color: #fff;
     }
-
-    /* Month list */
-    .month ul {
-        margin: 0;
-        padding: 0;
-    }
-
-    .month ul li {
-        color: white;
-        font-size: 20px;
-        text-align: center;
-        text-transform: uppercase;
-        letter-spacing: 3px;
-    }
-
-    /* Previous button inside month header */
-    .month .prev {
-        float: left;
-        padding-top: 10px;
-    }
-
-    /* Next button */
-    .month .next {
-        float: right;
-        padding-top: 10px;
-    }
-
-    /* Weekdays (Mon-Sun) */
-    .weekdays {
-        margin: 0;
-        padding: 10px 0;
-        background-color:#ddd;
-    }
-
-    .weekdays li {
-        display: inline-block;
-        width: 13.6%;
-        color: #666;
-        text-align: center;
-    }
-
-    /* Days (1-31) */
-    .days {
-        padding: 10px 0;
-        background: #eee;
-        margin: 0;
-    }
-
-    .days li {
-        list-style-type: none;
-        display: inline-block;
-        width: 13.6%;
-        text-align: center;
-        margin-bottom: 5px;
-        font-size:12px;
-        color:#777;
-    }
-
-    /* Highlight the "current" day */
-    .days li .active {
-        padding: 5px;
-        background: #4a8bbe; /* #1abc9c; */
-        color: white !important
+    a:hover {
+      color: #fff;
+      text-decoration: None;
     }
   </style>
-
 </head>
 <body>
 
 <div class="container">
-  <img src="img/fs2w.png" alt="fs2w">
 
-  <div class="month">
-    <ul>
-      <li class="prev">&#10094;</li>
-      <li class="next">&#10095;</li>
-      <li>
-        Janeiro<br>
-        <span style="font-size:18px">2017</span>
-      </li>
-    </ul>
+<h1>Full Stack Web Workshops GruPy-SP</h1>
+
+<img src="img/fs2w.png" alt="fs2w">
+
+<p>FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicações web em Python. O objetivo é que ao final do programa você seja capaz de criar seu próprio projeto web do começo ao fim, e ainda deixar seu site no ar.</p>
+
+<div class="panel panel-default">
+  <div class="panel-body btn-black">
+    <img src="" alt="">
+    <a href=""><span class="leader">Linux</span></a>
   </div>
+</div>
 
-  <ul class="weekdays">
-    <li>Dom</li>
-    <li>Seg</li>
-    <li>Ter</li>
-    <li>Qua</li>
-    <li>Qui</li>
-    <li>Sex</li>
-    <li>Sab</li>
-  </ul>
-
-  <ul class="days">
-    <li>1</li>
-    <li>2</li>
-    <li>3</li>
-    <li>4</li>
-    <li>5</li>
-    <li>6</li>
-    <li>7</li>
-    <li>8</li>
-    <li>9</li>
-    <li>10</li>
-    <li>11</li>
-    <li>12</li>
-    <li>13</li>
-    <li>14</li>
-    <li>15</li>
-    <li><span class="active">16 #1</span></li>
-    <li>17</li>
-    <li>18</li>
-    <li>19</li>
-    <li>20</li>
-    <li>21</li>
-    <li>22</li>
-    <li>23</li>
-    <li>24</li>
-    <li>25</li>
-    <li>26</li>
-    <li><span class="active">27 #2</span></li>
-    <li>28</li>
-    <li>29</li>
-    <li>30</li>
-    <li>31</li>
-  </ul>
-
-  <br>
-
-  <div class="month">
-    <ul>
-      <li class="prev">&#10094;</li>
-      <li class="next">&#10095;</li>
-      <li>
-        Fevereiro<br>
-        <span style="font-size:18px">2017</span>
-      </li>
-    </ul>
+<div class="panel panel-default">
+  <div class="panel-body btn-red">
+    <img src="http://i.imgur.com/hvmrudL.jpg" alt="">
+    <a href=""><span>HTML e CSS básico</span></a>
   </div>
+</div>
 
-  <ul class="weekdays">
-    <li>Dom</li>
-    <li>Seg</li>
-    <li>Ter</li>
-    <li>Qua</li>
-    <li>Qui</li>
-    <li>Sex</li>
-    <li>Sab</li>
-  </ul>
-
-  <ul class="days">
-    <li></li>
-    <li></li>
-    <li></li>
-    <li>1</li>
-    <li>2</li>
-    <li>3</li>
-    <li>4</li>
-    <li>5</li>
-    <li>6</li>
-    <li>7</li>
-    <li>8</li>
-    <li>9</li>
-    <li><span class="active">10 #3</span></li>
-    <li>11</li>
-    <li>12</li>
-    <li>13</li>
-    <li>14</li>
-    <li>15</li>
-    <li>16</li>
-    <li>17</li>
-    <li>18</li>
-    <li>19</li>
-    <li><span class="active">20 #4</span></li>
-    <li>21</li>
-    <li>22</li>
-    <li>23</li>
-    <li>24</li>
-    <li>25</li>
-    <li>26</li>
-    <li>27</li>
-    <li>28</li>
-  </ul>
-
-  <br>
-
-  <div class="month">
-    <ul>
-      <li class="prev">&#10094;</li>
-      <li class="next">&#10095;</li>
-      <li>
-        Março<br>
-        <span style="font-size:18px">2017</span>
-      </li>
-    </ul>
+<div class="panel panel-default">
+  <div class="panel-body btn-violet">
+    <img src="" alt="">
+    <a href=""><span class="lead">Introdução a Git</span></a>
   </div>
+</div>
 
-  <ul class="weekdays">
-    <li>Dom</li>
-    <li>Seg</li>
-    <li>Ter</li>
-    <li>Qua</li>
-    <li>Qui</li>
-    <li>Sex</li>
-    <li>Sab</li>
-  </ul>
+<div class="panel panel-default">
+  <div class="panel-body btn-yellow">
+    <img src="" alt="">
+    <a href=""><span class="leader">Noções de JavaScript, jQuery e Ajax</span></a>
+  </div>
+</div>
 
-  <ul class="days">
-    <li></li>
-    <li></li>
-    <li></li>
-    <li>1</li>
-    <li>2</li>
-    <li>3</li>
-    <li><span class="active">4 #5</span></li>
-    <li>5</li>
-    <li>6</li>
-    <li>7</li>
-    <li>8</li>
-    <li>9</li>
-    <li>10</li>
-    <li>11</li>
-    <li>12</li>
-    <li>13</li>
-    <li>14</li>
-    <li>15</li>
-    <li>16</li>
-    <li>17</li>
-    <li><span class="active">18 #6</span></li>
-    <li>19</li>
-    <li>20</li>
-    <li>21</li>
-    <li>22</li>
-    <li>23</li>
-    <li><span class="active">24 #7</span></li>
-    <li>25</li>
-    <li>26</li>
-    <li>27</li>
-    <li>28</li>
-    <li>29</li>
-    <li>30</li>
-    <li>31</li>
-  </ul>
+<div class="panel panel-default">
+  <div class="panel-body btn-light-green">
+    <img src="" alt="">
+    <a href=""><span class="leader">Elm</span></a>
+  </div>
+</div>
 
+<div class="panel panel-default">
+  <div class="panel-body btn-blue">
+    <img src="" alt="">
+    <a href=""><span class="leader">Mutirão Python</span></a>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body btn-violet">
+    <img src="" alt="">
+    <a href=""><span class="leader">Introdução ao PostgreSql</span></a>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body btn-blue">
+    <img src="" alt="">
+    <a href=""><span class="leader">Web Scraping</span></a>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body btn-black">
+    <img src="" alt="">
+    <a href=""><span class="leader">Flask na veia</span></a>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body btn-green">
+    <img src="" alt="">
+    <a href=""><span class="leader">Overdose de Django</span></a>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body btn-violet">
+    <img src="" alt="">
+    <a href=""><span class="leader">Fazendo Deploy do seu projeto no Heroku</span></a>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body btn-gray">
+    <img src="" alt="">
+    <a href=""><span class="leader">Api + Microservices</span></a>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body btn-dark-gray">
+    <img src="" alt="">
+    <a href=""><span class="leader">Testes e Integração Contínua</span></a>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-body btn-blue">
+    <img src="" alt="">
+    <a href=""><span class="leader">Python & IOT</span></a>
+  </div>
+</div>
+
+<p>Acompanhe o <a href="http://meetup.com/grupy-sp">Meetup.com/grupy-sp</a>.</p>
 </div>
 </body>
 </html>
+
