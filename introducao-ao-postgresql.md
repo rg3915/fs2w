@@ -2,7 +2,7 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP # Introdução ao PostgreSql
+## FS2W GruPy-SP # Introdução ao PostgreSQL
 
 ![PostgreSql](img/postgresql.png)
 
@@ -16,27 +16,27 @@
 
 **Descrição curta:**
 
-Workshop introdutório de PostgreSql. Conheça os principais comandos SQL e aprenda a conectar PostgreSql + Python.
+Workshop introdutório de PostgreSQL. Conheça os principais comandos SQL e aprenda a conectar PostgreSQL + Python.
 
 **Descrição longa:**
 
-Workshop introdutório de PostgreSql.
+Workshop introdutório de PostgreSQL.
 
-PostgreSql é um dos bancos de dados mais poderoso e seguro do mundo.
+PostgreSQL é um dos bancos de dados mais poderoso e seguro do mundo.
 
 Apresentação dos principais comandos SQL.
-Conexão PostgreSql + Python.
+Conexão PostgreSQL + Python.
 
 **Objetivo:**
 
-* Instalar o PostgreSql.
+* Instalar o PostgreSQL.
 * Criar um banco de dados.
 * Fazer um CRUD.
-* Conectar-se ao PostgreSql com Python.
+* Conectar-se ao PostgreSQL com Python.
 
 **Chamada para o evento:**
 
-Conheça PostgreSql, o banco de dados mais poderoso do mundo. Workshop 100% prático, e com integração ao Python.
+Conheça PostgreSQL, o banco de dados mais poderoso do mundo. Workshop 100% prático, e com integração ao Python.
 
 
 

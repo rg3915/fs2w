@@ -12,7 +12,7 @@ FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicaçõe
 - [ ] [FS2W # Noções de JavaScript, jQuery e Ajax](nocoes-de-javascript-jquery-ajax.md)
 - [ ] [FS2W # Elm](elm.md)
 - [ ] [FS2W # Mutirão Python](mutirao-python.md)
-- [ ] [FS2W # Introdução ao PostgreSql](introducao-ao-postgresql.md)
+- [ ] [FS2W # Introdução ao PostgreSQL](introducao-ao-postgresql.md)
 - [ ] [FS2W # Web Scraping](web-scraping.md)
 - [ ] [FS2W # Flask](flask.md)
 - [ ] [FS2W # Django](django.md)
