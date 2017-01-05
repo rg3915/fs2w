@@ -9,6 +9,7 @@ FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicaçõe
 - [ ] [FS2W # HTML e CSS básico](html-e-css-basico.md)
 - [ ] [FS2W # Linux](linux.md)
 - [ ] [FS2W # Introdução a Git](introducao-a-git.md)
+- [ ] [FS2W # Lógica de Programação](logica-de-programacao.md)
 - [ ] [FS2W # Noções de JavaScript, jQuery e Ajax](nocoes-de-javascript-jquery-ajax.md)
 - [ ] [FS2W # Elm](elm.md)
 - [ ] [FS2W # Mutirão Python](mutirao-python.md)
