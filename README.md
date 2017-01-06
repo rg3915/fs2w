@@ -6,17 +6,18 @@ O ano mal começou e o GruPy-SP já começa com um mega projeto: Full Stack Web 
 
 FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicações web em Python. O objetivo é que ao final do programa você seja capaz de criar seu próprio projeto web do começo ao fim, e ainda deixar seu site no ar.
 
-- [ ] [FS2W # HTML e CSS básico](html-e-css-basico.md)
-- [ ] [FS2W # Linux](linux.md)
+- [ ] [FS2W #1 HTML e CSS básico](html-e-css-basico.md) (14/01/17)
+- [ ] [FS2W #2 Introdução ao Linux (focado no desenvolvimento Python)](linux.md) (21/01/17)
+- [ ] [FS2W #? Introdução ao Vim](vim.md) (26/02/17)
 - [ ] [FS2W # Introdução a Git](introducao-a-git.md)
 - [ ] [FS2W # Lógica de Programação](logica-de-programacao.md)
 - [ ] [FS2W # Noções de JavaScript, jQuery e Ajax](nocoes-de-javascript-jquery-ajax.md)
 - [ ] [FS2W # Elm](elm.md)
 - [ ] [FS2W # Mutirão Python](mutirao-python.md)
-- [ ] [FS2W # Introdução ao PostgreSql](introducao-ao-postgresql.md)
+- [ ] [FS2W # Introdução ao PostgreSQL](introducao-ao-postgresql.md)
 - [ ] [FS2W # Web Scraping](web-scraping.md)
-- [ ] [FS2W # Flask](flask-na-veia.md)
-- [ ] [FS2W # Django](overdose-de-django.md)
+- [ ] [FS2W # Flask](flask.md)
+- [ ] [FS2W # Django](django.md)
 - [ ] [FS2W # Fazendo Deploy do seu projeto no Heroku](fazendo-deploy-do-seu-projeto-no-heroku.md)
 - [ ] [FS2W # Api + Microservices](api-e-microservices.md)
 - [ ] [FS2W # Testes e Integração Contínua](testes-e-integracao-continua.md)
