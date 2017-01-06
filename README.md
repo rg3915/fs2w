@@ -6,9 +6,9 @@ O ano mal começou e o GruPy-SP já começa com um mega projeto: Full Stack Web 
 
 FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicações web em Python. O objetivo é que ao final do programa você seja capaz de criar seu próprio projeto web do começo ao fim, e ainda deixar seu site no ar.
 
-- [ ] [FS2W #1 HTML e CSS básico](html-e-css-basico.md) 14/01/17
-- [ ] [FS2W #2 Introdução ao Linux (focado no desenvolvimento Python)](linux.md) 21/01/17
-- [ ] [FS2W # Introdução ao Vim](vim.md) 26/02/17
+- [ ] [FS2W #1 HTML e CSS básico](html-e-css-basico.md) (14/01/17)
+- [ ] [FS2W #2 Introdução ao Linux (focado no desenvolvimento Python)](linux.md) (21/01/17)
+- [ ] [FS2W #? Introdução ao Vim](vim.md) (26/02/17)
 - [ ] [FS2W # Introdução a Git](introducao-a-git.md)
 - [ ] [FS2W # Lógica de Programação](logica-de-programacao.md)
 - [ ] [FS2W # Noções de JavaScript, jQuery e Ajax](nocoes-de-javascript-jquery-ajax.md)
