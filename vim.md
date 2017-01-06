@@ -4,7 +4,7 @@
 
 ## FS2W GruPy-SP #3 Introdução ao Vim
 
-![img](img/vim.png)
+<img src="img/vim.png" alt="" width="250px">
 
 **Data confirmada:** 26/02/17
 
