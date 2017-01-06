@@ -8,7 +8,7 @@
 
 **Data provável:** /17
 
-**Lugar provável:** IBM, iMasters ou Avenue Code
+**Local provável:** IBM, iMasters ou Avenue Code
 
 **Instrutor provável:** Regis Santos
 

@@ -8,7 +8,7 @@
 
 **Data provável:** /17
 
-**Lugar provável:** iMasters
+**Local provável:** iMasters
 
 **Instrutor provável:**  Henrique Braga
 

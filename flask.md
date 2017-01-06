@@ -8,7 +8,7 @@
 
 **Data provável:** /17
 
-**Lugar provável:** Garoa HC
+**Local provável:** Garoa HC
 
 **Instrutor provável:** Rafael Correia e/ou Bruno Rocha
 

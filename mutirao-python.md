@@ -8,7 +8,7 @@
 
 **Data provável:** /17
 
-**Lugar provável:** Avenue Code
+**Local provável:** Avenue Code
 
 **Instrutor provável:**
 

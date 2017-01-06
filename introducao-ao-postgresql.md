@@ -8,7 +8,7 @@
 
 **Data provável:** /17
 
-**Lugar provável:** IBM
+**Local provável:** IBM
 
 **Instrutor provável:** Regis Santos ou Juliano Atanazio
 

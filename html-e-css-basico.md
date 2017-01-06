@@ -8,7 +8,7 @@
 
 **Data:** xx/01/17
 
-**Lugar:** xx
+**Local:** xx
 
 **Instrutor:** xx
 

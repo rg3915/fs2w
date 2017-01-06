@@ -8,7 +8,7 @@
 
 **Data provável:** 21/01/2017
 
-**Lugar:** à definir
+**Local:** à definir
 
 **Instrutor:** Rafael Henrique da Silva Correia
 

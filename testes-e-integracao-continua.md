@@ -8,7 +8,7 @@
 
 **Data provável:** /17
 
-**Lugar provável:** 
+**Local provável:** 
 
 **Instrutor provável:** 
 
