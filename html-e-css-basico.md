@@ -2,17 +2,23 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP # HTML e CSS básico
+## FS2W GruPy-SP #1 HTML e CSS básico
 
 ![html_css](img/html_css.jpg)
 
-**Data:** xx/01/17
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> link
 
-**Local:** xx
+**Data confirmada:** 14/01/17
 
-**Instrutor:** xx
+**Horário:** das 10:00 às 14:00
 
-**Duração:** xx horas
+**Local confirmado:** IBM Tutóia
+
+**Endereço:** Rua Tutóia, 1157 - Paraíso
+
+**Instrutor:** [Amir Elemam](https://github.com/amirelemam)
+
+**Tempo estimado:** 4 horas
 
 **Descrição curta:**
 
@@ -34,7 +40,9 @@ Se der tempo vamos colocar nosso site no ar usando o GitHub Pages.
 
 **Chamada para o evento:**
 
-Crie sua landpage nesse workshop de HTML e CSS e torne seu projeto apresentável para seu cliente.
+Está começando o FS2W GruPy-SP!
+E no nosso primeiro workshop vamos aprender sobre HTML e CSS e criar uma landpage, tornando seu projeto apresentável para seu cliente. link
 
+---
 
-
+Crie sua landpage nesse workshop de HTML e CSS e torne seu projeto apresentável para seu cliente. link
