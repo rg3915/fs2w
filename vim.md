@@ -2,7 +2,7 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP #3 Introdução ao Vim
+## FS2W GruPy-SP # Introdução ao Vim
 
 <img src="img/vim.png" alt="" width="250px">
 
@@ -35,4 +35,6 @@ O Vim é um editor de texto que você pode usar pelo terminal. A intenção é a
 
 **Chamada para o evento:**
 
-Você sabe usar o Vim? Não? Então agora é hora de aprender! Venha participar do nosso 3º Workshop FS2W GruPy-SP #3 Introdução ao Vim link
+Você sabe usar o Vim? Não? Então agora é hora de aprender! Venha participar do nosso Workshop FS2W GruPy-SP # Introdução ao Vim link
+
+Twitter: #FS2W @grupysp 
