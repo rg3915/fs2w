@@ -2,13 +2,19 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP # Introdução ao Linux (focado no desenvolvimento Python)
+## FS2W GruPy-SP #2 Introdução ao Linux (focado no desenvolvimento Python)
 
 ![html_css](img/linux.jpg)
 
-**Data provável:** 21/01/2017
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> link
 
-**Local:** à definir
+**Data confirmada:** 21/01/17
+
+**Horário:** das 9:00 às 16:00
+
+**Local confirmado:** [CT Novatec](http://ctnovatec.com.br/)
+
+**Endereço:** Av. Cruzeiro do Sul, 2463 – sala 617 - Carandiru
 
 **Instrutor:** Rafael Henrique da Silva Correia
 
@@ -53,3 +59,7 @@ Você está cansado de ser um Windows-User? Não aguenta mais ficar removendo v�
 Pois este Workshop é pra você! Aqui a ideia é que você saia desenvolvendo programas básicos em Python NO LINUX!
 
 Se você usa outro sistema operacional venha sem medo, pois já estamos contando com isso!
+
+---
+
+Twitter: Venha participar do #FS2W @grupysp #2 Introdução ao Linux (focado no desenvolvimento Python) workshop gratuito sobre Linux. link
