@@ -40,9 +40,9 @@ Se der tempo vamos colocar nosso site no ar usando o GitHub Pages.
 
 **Chamada para o evento:**
 
-Está começando o FS2W GruPy-SP!
+Está começando o #FS2W @grupysp!
 E no nosso primeiro workshop vamos aprender sobre HTML e CSS e criar uma landpage, tornando seu projeto apresentável para seu cliente. link
 
 ---
 
-Crie sua landpage nesse workshop de HTML e CSS e torne seu projeto apresentável para seu cliente. link
+Twitter: #FS2W @grupysp Crie sua landpage nesse workshop de HTML e CSS e torne seu projeto apresentável para seu cliente. link
