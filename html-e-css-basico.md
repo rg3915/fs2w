@@ -6,7 +6,7 @@
 
 ![html_css](img/html_css.jpg)
 
-**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> link
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/356g6q
 
 **Data confirmada:** 14/01/17
 
@@ -41,8 +41,8 @@ Se der tempo vamos colocar nosso site no ar usando o GitHub Pages.
 **Chamada para o evento:**
 
 Está começando o #FS2W @grupysp!
-E no nosso primeiro workshop vamos aprender sobre HTML e CSS e criar uma landpage, tornando seu projeto apresentável para seu cliente. link
+E no nosso primeiro workshop vamos aprender sobre HTML e CSS e criar uma landpage, tornando seu projeto apresentável para seu cliente. http://meetu.ps/356g6q
 
 ---
 
-Twitter: #FS2W @grupysp Crie sua landpage nesse workshop de HTML e CSS e torne seu projeto apresentável para seu cliente. link
+Twitter: #FS2W @grupysp Crie sua landpage nesse workshop de HTML e CSS e torne seu projeto apresentável para seu cliente. http://meetu.ps/356g6q
