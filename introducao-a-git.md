@@ -6,13 +6,19 @@
 
 ![git](img/git.png)
 
-**Data provável:** /17
+**Meetup:** em breve
 
-**Local provável:** iMasters
+**Data confirmada:** Quinta, 09/02/17
 
-**Instrutor provável:**  Samuel Sampaio (Samuka)
+**Horário:** das 19:00 às 21:00
 
-**Tempo estimado:** 2,5 horas
+**Local confirmado:** [Google Campus](https://www.campus.co/sao-paulo/pt)
+
+**Endereço:** Rua Coronel Oscar Porto, 70 - Metrô Brigadeiro
+
+**Instrutor:** [Samuel Sampaio (Samuka)](https://github.com/samukasmk)
+
+**Tempo estimado:** 2 horas
 
 **Descrição curta:**
 
