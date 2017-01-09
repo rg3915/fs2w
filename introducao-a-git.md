@@ -8,13 +8,13 @@
 
 **Meetup:** em breve
 
-**Data confirmada:** Quinta, 09/02/17
+**Data provável:** Quinta, 09/02/17
 
-**Horário:** das 19:00 às 21:00
+**Horário provável:** das 19:00 às 21:00
 
-**Local confirmado:** [Google Campus](https://www.campus.co/sao-paulo/pt)
+**Local:** Não confirmado ainda.
 
-**Endereço:** Rua Coronel Oscar Porto, 70 - Metrô Brigadeiro
+**Endereço:** 
 
 **Instrutor:** [Samuel Sampaio (Samuka)](https://github.com/samukasmk)
 
