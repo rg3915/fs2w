@@ -6,7 +6,7 @@
 
 ![html_css](img/linux.jpg)
 
-**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> link
+**Meetup**: [<img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px">](https://www.meetup.com/pt-BR/Grupy-SP/events/236920781/)
 
 **Data confirmada:** 21/01/17
 
