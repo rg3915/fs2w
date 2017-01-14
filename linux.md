@@ -6,7 +6,7 @@
 
 ![html_css](img/linux.jpg)
 
-**Meetup**: [<img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px">](https://www.meetup.com/pt-BR/Grupy-SP/events/236920781/)
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/35pqQJ
 
 **Data confirmada:** 21/01/17
 
@@ -62,4 +62,4 @@ Se você usa outro sistema operacional venha sem medo, pois já estamos contando
 
 ---
 
-Twitter: Venha participar do #FS2W @grupysp #2 Introdução ao Linux (focado no desenvolvimento Python) workshop gratuito sobre Linux. link
+Twitter: Venha participar do #FS2W @grupysp #2 Introdução ao Linux (focado no desenvolvimento Python) workshop gratuito sobre Linux. http://meetu.ps/35pqQJ
