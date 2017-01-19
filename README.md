@@ -12,9 +12,10 @@ FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicaçõe
 - [ ] [FS2W #4 Introdução ao Vim](vim.md) (26/02/17)
 - [ ] [FS2W # Introdução a Git](introducao-a-git.md)
 - [ ] [FS2W # Lógica de Programação](logica-de-programacao.md)
-- [ ] [FS2W # HTTP e Ajax](http-ajax.md)
-- [ ] [FS2W # Elm](elm.md)
 - [ ] [FS2W # Mutirão Python](mutirao-python.md)
+- [ ] [FS2W # HTTP e Ajax](http-ajax.md)
+- [ ] Revisão
+- [ ] [FS2W # Elm](elm.md)
 - [ ] [FS2W # Introdução ao PostgreSQL](introducao-ao-postgresql.md)
 - [ ] [FS2W # Web Scraping](web-scraping.md)
 - [ ] [FS2W # Flask](flask.md)
