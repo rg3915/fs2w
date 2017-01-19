@@ -9,7 +9,7 @@
 
 **Local provável:** 
 
-**Instrutor provável:** [@cuducos](github.com/cuducos)
+**Instrutor provável:** [@cuducos](https://github.com/cuducos/)
 
 **Tempo estimado:**  horas
 
