@@ -35,3 +35,4 @@ Introdução ao Javascript com um pouco de jQuery. Para participar do Workshop �
 
 **Chamada para o evento:**
 
+Finalmente você vai aprender a programar em JavaScript!!! Não perca a 3ª edição do #FS2W #3 Noções de JavaScript e jQuery.
