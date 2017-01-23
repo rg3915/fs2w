@@ -8,6 +8,8 @@
 
 **Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/356g6q
 
+**Material:** [aqui](https://github.com/grupy-sp/encontros/blob/master/2017/fs2w/01-html-css.md)
+
 **Data confirmada:** 14/01/17
 
 **Horário:** das 10:00 às 14:00
