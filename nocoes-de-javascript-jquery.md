@@ -6,6 +6,8 @@
 
 ![img](img/js_jquery.png)
 
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/35R0yt
+
 **Data confirmada:** 09/02/17
 
 **Horário:** das 19:00 às 21:00
