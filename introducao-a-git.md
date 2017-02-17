@@ -8,17 +8,17 @@
 
 **Meetup:** em breve
 
-**Data provável:** Quinta, 09/02/17
+**Data confirmada:** 11/03/17
 
-**Horário provável:** das 19:00 às 21:00
+**Horário:** das 10:00 às 14:00
 
-**Local:** Não confirmado ainda.
+**Local confirmado:** IBM Tutóia
 
-**Endereço:** 
+**Endereço:** Rua Tutóia, 1157 - Paraíso
 
 **Instrutor:** [Samuel Sampaio (Samuka)](https://github.com/samukasmk)
 
-**Tempo estimado:** 2 horas
+**Tempo estimado:** 4 horas
 
 **Descrição curta:**
 
