@@ -6,7 +6,7 @@
 
 <img src="img/vim.png" alt="" width="250px">
 
-**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> link
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/36XGr4
 
 
 **Data confirmada:** 26/02/17
@@ -35,6 +35,4 @@ O Vim é um editor de texto que você pode usar pelo terminal. A intenção é a
 
 **Chamada para o evento:**
 
-Você sabe usar o Vim? Não? Então agora é hora de aprender! Venha participar do nosso Workshop FS2W GruPy-SP # Introdução ao Vim link
-
-Twitter: #FS2W @grupysp 
+Você sabe usar o Vim? Não? Então agora é hora de aprender! Venha participar do nosso Workshop FS2W GruPy-SP # Introdução ao Vim http://meetu.ps/36XGr4
