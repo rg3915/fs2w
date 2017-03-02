@@ -2,7 +2,7 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP # Noções de JavaScript e jQuery
+## FS2W GruPy-SP #3 Noções de JavaScript e jQuery
 
 ![img](img/js_jquery.png)
 

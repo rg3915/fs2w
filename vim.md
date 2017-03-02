@@ -2,7 +2,7 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP # Introdução ao Vim
+## FS2W GruPy-SP #4 Introdução ao Vim
 
 <img src="img/vim.png" alt="" width="250px">
 
