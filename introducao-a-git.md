@@ -6,7 +6,7 @@
 
 ![git](img/git.png)
 
-**Meetup:** em breve
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/37nqPm
 
 **Data confirmada:** 11/03/17
 
