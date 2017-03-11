@@ -2,11 +2,13 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP #5 Introdução a Git
+## FS2W GruPy-SP #5 Introdução ao Git
 
 ![git](img/git.png)
 
 **Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/37nqPm
+
+**Material:** [aqui](https://github.com/grupy-sp/encontros/blob/master/2017/fs2w/05-git.md)
 
 **Data confirmada:** 11/03/17
 
