@@ -3,6 +3,24 @@ $(document).ready(function() {
     placement: 'top'
   });
 
+  // Iniciando as divs minimizadas
+  $("#widget-body1").slideToggle("slow");
+  $("#widget-body2").slideToggle("slow");
+  $("#widget-body3").slideToggle("slow");
+  $("#widget-body4").slideToggle("slow");
+  $("#widget-body5").slideToggle("slow");
+  $("#widget-body6").slideToggle("slow");
+  $("#widget-body7").slideToggle("slow");
+  $("#widget-body8").slideToggle("slow");
+  $("#widget-body9").slideToggle("slow");
+  $("#widget-body10").slideToggle("slow");
+  $("#widget-body11").slideToggle("slow");
+  $("#widget-body12").slideToggle("slow");
+  $("#widget-body13").slideToggle("slow");
+  $("#widget-body14").slideToggle("slow");
+  $("#widget-body15").slideToggle("slow");
+  $("#widget-body16").slideToggle("slow");
+
   $("#div1").click(function() {
     $("#widget-body1").slideToggle("slow");
   });
