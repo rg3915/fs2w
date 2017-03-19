@@ -5,6 +5,7 @@
   <title>FS2W</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/modern-business.css">
   <link rel="stylesheet" href="css/status.css">
   <link rel="stylesheet" href="css/style.css">
   <style>
@@ -12,14 +13,51 @@
 </head>
 <body>
 
+    <!-- Header Carousel -->
+    <header id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <div class="fill" style="background-image:url('img/slides/fs2w3.png');"></div>
+                <div class="carousel-caption">
+                    <h2></h2>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('img/slides/logica.jpg');">
+                </div>
+                <div class="carousel-caption">
+                  <h1>Lógica de Programação</h1>
+                    <h2>Em breve</h2>
+                </div>
+            </div>
+            <!-- <div class="item">
+                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
+                <div class="carousel-caption">
+                    <h2>Caption 3</h2>
+                </div>
+            </div> -->
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+    </header>
+
 <div class="container">
 
 <h1>Full Stack Web Workshops GruPy-SP</h1>
-
-<img src="img/fs2w.png" alt="fs2w">
-
-<br>
-<br>
 
 <p class="lead">FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicações web em Python. O objetivo é que ao final do programa você seja capaz de criar seu próprio projeto web do começo ao fim, e ainda deixar seu site no ar.</p>
 
@@ -315,7 +353,7 @@
   <div class="widget-body" id="widget-body6"> <!-- CONTENT PANEL -->
     <div class="row">
       <div class="col-md-3">
-        <img src="https://images.alphacoders.com/546/546191.jpg" alt="">
+        <img src="img/logica.jpg" alt="">
       </div>
       <div class="col-md-9">
         <h4>
@@ -766,6 +804,7 @@
 <div class="widget widget-gray"> <!-- TYPE PANEL -->
   <div id="div15" class="widget-head btn-dark-gray"> <!-- HEAD PANEL -->
     <h4 class="mytitle">
+      <i class="fa fa-puzzle-piece fa-2x"></i>
       <span class="lead">Testes e Integração Contínua</span>
     </h4>
   </div><!-- /HEAD PANEL -->
@@ -867,6 +906,13 @@
   <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
   <script src="js/main.js"></script>
+
+  <!-- Script to Activate the Carousel -->
+  <script>
+  $('.carousel').carousel({
+      interval: 3000 //changes the speed
+  })
+  </script>
 
 </body>
 </html>
