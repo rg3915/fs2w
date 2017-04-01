@@ -11,7 +11,7 @@ FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicaçõe
 - [X] [FS2W #3 Noções de JavaScript e jQuery](nocoes-de-javascript-jquery.md) (09/02/17)
 - [X] [FS2W #4 Introdução ao Vim](vim.md) (26/02/17)
 - [X] [FS2W #5 Introdução ao Git](introducao-a-git.md) (11/03/17)
-- [ ] [FS2W #6 Lógica de Programação](logica-de-programacao.md)
+- [X] [FS2W #6 Lógica de Programação](logica-de-programacao.md) (08/04/17)
 - [ ] [FS2W #7 Mutirão Python](mutirao-python.md)
 - [ ] Revisão
 - [ ] [FS2W #8 Web Scraping](web-scraping.md)

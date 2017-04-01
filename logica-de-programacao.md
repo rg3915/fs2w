@@ -6,17 +6,21 @@
 
 ![git](img/logic.png)
 
-**Data provável:** /17
+**Data confirmada:** 08/04/17
 
-**Local provável:** iMasters
+**Horário:** das 10:00 às 14:00
 
-**Instrutor provável:**  Henrique Braga
+**Local confirmado:** IBM Tutóia
 
-**Tempo estimado:** 2,5 horas
+**Endereço:** Rua Tutóia, 1157 - Paraíso
+
+**Instrutor provável:** Paulo Romano
+
+**Tempo estimado:** 4 horas
 
 **Descrição curta:**
 
-Aprenda a maneira de escrever programas para que computadores entendam (algoritmos). versionar o seu código com Git, e facilite o seu trabalho em equipe.
+Aprenda a maneira de escrever programas para que computadores entendam (algoritmos).
 
 **Descrição longa:**
 
