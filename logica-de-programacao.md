@@ -2,7 +2,7 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP # Lógica de Programação
+## FS2W GruPy-SP #6 Lógica de Programação
 
 ![git](img/logic.png)
 

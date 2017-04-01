@@ -2,13 +2,13 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP # Mutirão Python
+## FS2W GruPy-SP #7 Mutirão Python
 
 ![python](img/python.png)
 
-**Data provável:** /17
+**Data provável:** 22/04/17
 
-**Local provável:** Avenue Code
+**Local provável:** 
 
 **Instrutor provável:**
 
@@ -16,7 +16,7 @@
 
 **Descrição curta:**
 
-Workshop de Python, a segunda linguagem mais popular do mundo.
+Workshop de Python, uma das linguagens mais populares do mundo.
 
 **Descrição longa:**
 
@@ -30,4 +30,4 @@ Workshop de introdução ao Python, uma linguagem interpretada, com tipagem fort
 
 **Chamada para o evento:**
 
-Venha aprender Python, a segunda linguagem mais popular do mundo. Workshop 100% prático. Traga seu notebook.
+Venha aprender Python, uma das linguagens mais populares do mundo. Workshop 100% prático. Traga seu notebook.
