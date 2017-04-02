@@ -11,7 +11,7 @@
 .widget .widget-head a{text-shadow:none;}
 .widget .widget-head .dropdown-menu li>a:hover,.widget .widget-head .dropdown-menu li>a:focus,.widget .widget-head .dropdown-submenu:hover>a{background-color:#47759e;background-image:-moz-linear-gradient(top, #47759e, #d24343);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#47759e), to(#d24343));background-image:-webkit-linear-gradient(top, #47759e, #d24343);background-image:-o-linear-gradient(top, #47759e, #d24343);background-image:linear-gradient(to bottom, #47759e, #d24343);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffda4c4c', endColorstr='#ffd24343', GradientType=0);}
 .widget .details{font-size:8pt;color:#45484d;}
-.widget .widget-body{padding:20px 15px;}
+.widget .widget-body{padding:20px 15px;display: none;}
 .widget .widget-body form{margin:0;}
 .widget .widget-body .count{font-size:15pt;font-weight:400;}
 .widget .widget-body>p:last-child{margin:0;}
