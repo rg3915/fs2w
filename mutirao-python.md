@@ -6,13 +6,15 @@
 
 ![python](img/python.png)
 
-**Data provável:** 22/04/17
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> https://www.meetup.com/pt-BR/Grupy-SP/events/239915770/
 
-**Local provável:** 
+**Data:** 20/05/17
 
-**Instrutor provável:**
+**Local:** IBM Tutóia
 
-**Tempo estimado:** 5 horas
+**Instrutor:**[Beatriz Uezu](https://twitter.com/beatrizuezu) e [PyLadies](https://www.meetup.com/pt-BR/PyLadiesSP/)
+
+**Tempo estimado:** 6 horas
 
 **Descrição curta:**
 
