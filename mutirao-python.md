@@ -8,6 +8,8 @@
 
 **Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> https://www.meetup.com/pt-BR/Grupy-SP/events/239915770/
 
+**Material:** [material de Python](https://github.com/rg3915/fs2w/blob/master/material/Grupy_PLSP_Interm_v2.pdf)
+
 **Data:** 20/05/17
 
 **Local:** IBM Tutóia
