@@ -6,13 +6,17 @@
 
 ![PostgreSql](img/postgresql.png)
 
-**Data provável:** /17
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/3bBQPY
 
-**Local provável:** IBM
+**Material:** em breve
 
-**Instrutor provável:** Regis Santos ou Juliano Atanazio
+**Data:** 15/07/17
 
-**Tempo estimado:** 3 horas
+**Local:** SciELO
+
+**Instrutor:** Juliano Atanazio
+
+**Tempo estimado:** 4 horas
 
 **Descrição curta:**
 
