@@ -2,7 +2,7 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP # Introdução ao PostgreSQL
+## FS2W GruPy-SP #8 Introdução ao PostgreSQL
 
 ![PostgreSql](img/postgresql.png)
 
@@ -14,7 +14,7 @@
 
 **Local:** SciELO
 
-**Instrutor:** Juliano Atanazio
+**Instrutor:** [Juliano Atanazio](https://github.com/juliano777)
 
 **Tempo estimado:** 4 horas
 
