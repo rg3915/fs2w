@@ -8,7 +8,7 @@
 
 **Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/3bBQPY
 
-**Material:** em breve
+**Material:** [material de PostgreSQL](https://github.com/juliano777/pgsql_fs2w)
 
 **Data:** 15/07/17
 

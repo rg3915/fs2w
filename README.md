@@ -13,9 +13,9 @@ FS2W é uma série de workshops gratuitos sobre o desenvolvimento de aplicaçõe
 - [X] [FS2W #5 Introdução ao Git](introducao-a-git.md) (11/03/17)
 - [X] [FS2W #6 Lógica de Programação](logica-de-programacao.md) (08/04/17)
 - [X] [FS2W #7 Mutirão Python](mutirao-python.md) (20/05/17)
+- [X] [FS2W #8 Introdução ao PostgreSQL](introducao-ao-postgresql.md) (15/07/17)
 - [ ] Revisão
-- [ ] [FS2W #8 Web Scraping](web-scraping.md)
-- [ ] [FS2W #9 Introdução ao PostgreSQL](introducao-ao-postgresql.md)
+- [ ] [FS2W #9 Web Scraping](web-scraping.md)
 - [ ] [FS2W #10 Flask](flask.md)
 - [ ] [FS2W #11 Django](django.md)
 - [ ] [FS2W #12 Fazendo Deploy do seu projeto no Heroku](fazendo-deploy-do-seu-projeto-no-heroku.md)
