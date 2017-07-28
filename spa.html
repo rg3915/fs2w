@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="http://html5-training-in-hyderabad.blogspot.com.br/favicon.ico">
+  <title>FS2W</title>
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <!-- Font-awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <!-- Bootstrap core JS -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <style>
+    .starter-template {
+      padding: 0 15px;
+      text-align: center;
+    }
+    #add_contact {
+      margin-bottom: 10px;
+    }
+    .js-delete-contact {
+      color: #d9534f;
+      cursor: pointer;
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="starter-template">
+    <h1>FS2W Essential Mix</h1>
+  </div>
+  <hr>
+  <div class="col-sm-4 col-sm-offset-4">
+    <button id="add_contact" class="btn btn-primary" data-target="#add_contact_modal" data-toggle="modal">
+      <i class="fa fa-plus"></i> Contato
+    </button>
+    <div id="list_contact" class="list-group">
+        <!-- Lista -->
+        <!-- <div id="item_" class="list-group-item">
+          <span class="js-delete-contact pull-right"><i class="fa fa-lg fa-times"></i></span>
+          <p><b>Nome:</b> contact</p>
+          <p><b>e-mail:</b> contact.email</p>
+        </div> -->
+
+    </div>
+  </div>
+
+<!-- Add Contact Modal -->
+<div class="modal fade" id="add_contact_modal" aria-labelledby="addContactModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                 
+                <button id="dismiss_contact_close" type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+                <h4 class="modal-title" id="addContactModalLabel">
+                    Novo Contato
+                </h4>
+            </div>
+            <form id="add_contact_form" action="." method="POST">
+              <div class="modal-body">
+                <div class="form-group">
+                  <label class="control-label" for="id_name">Nome</label>
+                  <input type="text" name="name" id="id_name" class="form-control" />
+                </div>
+                <div class="form-group">
+                  <label class="control-label" for="id_email">E-mail</label>
+                  <input type="email" name="email" id="id_email" class="form-control" />
+                </div>
+              </div>
+              <div class="modal-footer">
+                   
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                  <button type="submit" class="btn btn-primary">Salvar</button>
+              </div>
+            </form>
+        </div> <!-- modal-content -->
+        
+    </div> <!-- modal-dialog -->
+    
+</div> <!-- end modal -->
+
+<script>
+  $(document).ready(function() {
+    $.getJSON('names.json', function(data) {
+      if (data.length == 0) {
+        $('#list_contact').append(
+          '<p class="lead alert alert-warning">Não existem itens na lista.</p>'
+        );
+      } else {
+        for (var i = 0; i < data.length; i++) {
+          $('#list_contact').append(
+            '<div class="list-group-item">' +
+            '<span class="js-delete-contact pull-right"><i class="fa fa-lg fa-times"></i></span>' +
+            '<p><b>Nome:</b> ' + data[i]['name'] + '</p>' +
+            '<p><b>e-mail:</b> ' + data[i]['e-mail'] + '</p>' +
+            '</div>'
+          );
+        }
+      }
+    });
+  });
+
+  $('#add_contact_form').on('submit', function(e) {
+    e.preventDefault();
+    add_contact_post();
+  });
+
+  function add_contact_post() {
+    // Pega os valores dos campos name e email
+    let name = $('#id_name').val();
+    let email = $('#id_email').val();
+    // Remove os valores dos inputs
+    $('#add_contact_form')[0].reset();
+    // Fecha o form
+    $('#dismiss_contact_close').click();
+    // Adiciona o novo contato na lista
+    $('#list_contact').prepend(
+      '<div class="list-group-item">' +
+      '<span class="js-delete-contact pull-right"><i class="fa fa-lg fa-times"></i></span>' +
+      '<p><b>Nome:</b> ' + name + '</p>' +
+      '<p><b>e-mail:</b> ' + email + '</p>' +
+      '</div>'
+    );
+  }
+
+  // $('.js-delete-contact').click(function(e) {
+  //   e.preventDefault();
+  //   console.log('aaaa');
+  // });
+
+  $(document).on('click', '.js-delete-contact', function(e) {
+    e.preventDefault();
+    $(this).parent().remove();
+  });
+
+</script>
+</body>
+</html>
