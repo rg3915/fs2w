@@ -139,6 +139,8 @@ Escolha um editor de texto e use o plugin [Emmet](https://emmet.io/).
 
 Meu exemplo:
 
+#### ex1
+
 ```html
 <body>
   <div>
@@ -220,6 +222,8 @@ Meu exemplo:
 [Bootstrap](http://getbootstrap.com/)
 
 ![bootstrap-logo](img/bootstrap-logo.png)
+
+#### ex2
 
 layoutit.com
 
@@ -337,7 +341,7 @@ Eventos
 
 jQuery
 
-Rodar servidor
+### Rodar servidor
 
 ```
 python3 -m http.server 8080
@@ -416,6 +420,8 @@ Entrar em http://localhost:8080/spa.html
 </html>
 ```
 
+#### ex3
+
 Populando a página com os dados do json
 
 ```json
@@ -434,6 +440,8 @@ Populando a página com os dados do json
     }
 ]
 ```
+
+#### ex4
 
 ```js
 <script>
@@ -460,6 +468,8 @@ Populando a página com os dados do json
 ```
 
 ## Modal
+
+#### ex5
 
 ```html
 <!-- Add Contact Modal -->
@@ -496,6 +506,8 @@ Populando a página com os dados do json
     
 </div> <!-- end modal -->
 ```
+
+#### ex6
 
 Preenchendo o form e populando o HTML
 
