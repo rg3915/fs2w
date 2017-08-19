@@ -2,17 +2,21 @@
 
 ![fs2w](img/fs2w.png)
 
-## FS2W GruPy-SP # Flask na veia
+## FS2W GruPy-SP #10 Flask na veia
 
 ![flask](img/flask.png)
 
-**Data provável:** /17
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> https://www.meetup.com/pt-BR/Grupy-SP/events/242399278/
 
-**Local provável:** Garoa HC
+**Material:** [material de Flask](https://github.com/cursodepythonoficial/flask_workshop)
 
-**Instrutor provável:** Rafael Correia e/ou Bruno Rocha
+**Data:** 19/08/17
 
-**Tempo estimado:** 7 horas
+**Local:** CT Novatec
+
+**Instrutor:** Bruno Rocha
+
+**Tempo estimado:** 4 horas
 
 **Descrição curta:**
 
