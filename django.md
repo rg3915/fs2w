@@ -6,11 +6,15 @@
 
 ![django](img/django.png)
 
-**Data provável:** /17
+**Meetup**: <img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg" alt="" height="30px"> http://meetu.ps/3d8BJt
 
-**Local provável:** Garoa HC
+**Material:** [material de Django]
 
-**Instrutor provável:** Regis Santos
+**Data:** 23/09/17
+
+**Local:** Impacta Av. Rudge
+
+**Instrutor:** Regis Santos e Patricia Minamizawa
 
 **Tempo estimado:** 7 horas
 
